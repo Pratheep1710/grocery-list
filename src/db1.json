@@ -1,0 +1,6 @@
+{
+    "list" : [
+        { "id": 1, "text": "grape" },
+        { "id": 2, "text": "apple" }
+    ]
+}
